@@ -1,0 +1,2 @@
+Warning! !!!Please wipe system and vendor, than install rom and gapps!!!
+Device tree rebased on Arian. Now its fully stable.
